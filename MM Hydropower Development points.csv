@@ -1,0 +1,107 @@
+marker-color,marker-size,marker-symbol,project-name,state-region,,basin,sub-basin,rivers,status,installed-capacity(MW),generation(GWh/yr),height(M),total-storage(hm),reservoir-area(hm),reservoir-length(km),retention-period(days),Type (#),Export %,stage,date-signed,foreign-developer,local-developer,country-of-foreing-developer,year,lon,lat
+#ff0000,large,dam,Renan,Kachin,,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka,,1200,7330,159,1183,9.2,56,6,S,NP ,,,,,,,98.090192,27.525941
+#ff0000,large,dam,Kaunglanphu,Kachin,,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka,Planned,2700,14730,223,3101,32.9,~85,12,S,NP ,,,,,,,98.376808,26.849507
+#ff0000,large,dam,Wutsok,Kachin,,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka,Planned,"1,800","13,410",141,605,6.3,29,1,ROR ,NP ,MoA ,-2,SPIC ,- ,PRC ,2030,98.292511,26.403585
+#ff0000,large,dam,Pisa,Kachin,- ,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka,Planned,"2,000","12,870",153,535,7.9,~31 ,NP ,NP ,NP ,MoA ,16/06/09 ,SPIC ,- ,PRC ,2030,98.34309,26.598389
+#ff0000,small,dam,Gawlan,Kachin,13/11/14 ,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Planned,120,594,47,2,6.7,3,0,  ROR ,NP ,JVA ,9/3/2016,YEIG ,IGOEC ,PRC ,2026,98.580461,26.051936
+#ff0000,medium,dam,Laungdin,Kachin,13/11/14 ,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Planned,600,"2,401",79,67,12.4,11,3,ROR ,NP ,MoA ,23/07/10 ,YEIG ,IGOEC ,PRC ,2026,98.277743,26.043012
+#ff0000,medium,dam,Tongxinqioa,Kachin,18/03/11 ,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,planned,340,"1,695",63,5,8.8,4,0,ROR ,NP ,JVA ,19/02/16 ,YEIG ,IGOEC ,PRC ,2026,98.360249,25.963646
+#fa0000,large,dam,Laiza,Kachin,- ,Ayeyarwady,Ayeyarwady Headwaters,Mali Hka,Planned,1900,"14,720",196,12756,245,115,35,S,50%,JVA ,3/6/2010,SPIC ,- ,PRC ,2025,97.77695,26.491779
+#ff0000,large,dam,Myit Sone,Kachin,1/6/2011,Ayeyarwady,Ayeyarwady,Ayeyarwady,Suspend,"6,000",31290,140,13190,396.7,140+100,10,S,90%,JVA ,20/02/10 ,SPIC ,AWC ,PRC ,Suspended in 2011 ,97.535,25.715
+#ff0000,large,dam,Chepwe,Kachin,Started construction ,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka,Planned,"3,400","18,200",206,"1,910",27.7,62,2,ROR ,50%,,,,,,,98.12572,25.8905
+#000000,small,dam,Chepwe Nge,Kachin,,Ayeyarwady,Ayeyarwady Headwaters,Chipwi Hka,Existing,,,,,,,,,,,,,,,,98.184039,25.806073
+#ff0000,medium,dam,Dum Ban,Kachin,n.a. ,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka Tributary,Planned,130,371,81,34,NP ,5,9,S ,0%,MoU ,11/2/2015,YPEP ,Chan Yinn Khuu ,PRC ,2020,97.907021,25.511556
+#ff0000,small,dam,Nam Tabak 1,Kachin,,,,,Planned,141,635,27,14,2.2,1,NP ,ROR ,NP ,MoA ,38/01/15,China Goudian,Tun Thwin Mining,PRC ,2027,97.713906,25.090722
+#ff0000,medium,dam,Nam Tabak 2,Kachin,,,,,Planned,144,684,56,NP ,NP ,1,NP ,ROR ,NP ,MoA ,38/01/16,China Goudian,Tun Thwin Mining,PRC ,2028,97.650627,25.119755
+#000000,small,dam,Mali,Kachin,,,,,Existing,10.5,53.5,NP,NP,NP ,NP,NP ,NP ,,,,,,,,97.6135,24.98458
+#ff80c0,medium,dam,Ta Rung Hka,Kachin,,,,,Identified Potential Site,150,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,96.46829,26.718029
+#ff0000,small,dam,Hkankawn,Kachin,13/11/14 ,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Planned,140,769,42,3,2,3,0,ROR ,NP ,MoA ,23/07/10 ,YEIG ,IGOEC ,PRC ,2026,98.429523,26.023865
+#ff0000,medium,dam,Nam Li,Kachin,n.a. ,Ayeyarwady,Ayeyarwady Headwaters,N'Mai  Hka Tributary,Planned,165,473,44,2,NP ,1,1,ROR ,0%,MoU ,24/10/14 ,YPEP ,Chan Yinn Khuu ,PRC ,2020,97.811427,25.369858
+#000000,medium,dam,Dapein 1,Kachin,,,,,Existing,240,1065,46,22,0.35,0.4,4.3,,,E,,,China Datang,,2011,97.525448,24.421451
+#ff0000,small,dam,Dapein 2,Kachin,,,,,Planned,140,642,59,55,NP ,8,NP ,ROR ,0%,MoU ,31/07/08 ,DUHD, NP ,PRC ,2022,97.4214,24.36827
+#000000,medium,dam,Shwe Li 1,Shan (North),,,,,Existing,600,"4,022",47,24,1.3,10.5,9.5,,,E,,YUPD,,PRC ,2009,97.506,23.698
+#ff0000,medium,dam,Shwe Li 2,Shan (North),,,,,Planned,520,"2,814",92,72,28,20,1,ROR ,50%,MoA ,24/11/10,HIE,AWC Great Hor,PRC ,2021,97.31235,23.6531
+#008080,large,dam,Shwe Li 3,Shan (North),,,,,Under Construction,"1,050","3,400",150,"5,427",43.44,65,NP ,,,C,,"EdF, FRA ",,,2020,96.769,23.315
+#000000,small,dam,Nam Paw,Shan,,,,,Existing,20,83,54,52,NP ,1.3,Daily ,ROR ,0%,Covenant ,16/3/16 ,- ,- ,Kham ,2019,97.911001,23.944341
+#ff0000,large,dam,Kun Long,Shan,5/4/2012,Thanlwin,Thanlwin Mainstem,Thanlwin Mainstem,Planned,"1,400","7,142",100,659,65.4,1,ROR ,55,50%,JVA ,21/05/14,Henergy YG,MPC,PRC ,2023,98.611111,23.531667
+#ff0000,large,dam,Tamanthi,Sagaing,,,,,Suspend,"1,200","~6,307 ",74,"20,925",509,NP ,NP ,S ,NP ,Pre-MoU ,None ,NHPC ,NP ,India ,Suspended ,95.296955,25.322227
+#ff0000,medium,dam,Manipur,Chin,,,,,Planned,380,"1,903",168,"1,554",NP ,45,NP ,NP ,NP ,MoU ,18/9/14 ,CHEC ,Sein ,PRC ,2020,93.943248,22.804356
+#000000,small,dam,Myittha,Magway,,,,,Existing,40,170,63,325,NP ,NP,-,,,E,,,,MoALI,2017,94.036944,21.992222
+#ff80c0,medium,dam,Tawog Hka,Kachin,,,,,Identified Potential Site,50,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,96.52987,26.309687
+#ff80c0,small,dam,Ta Nai Hka,Kachin,,,,,Identified Potential Site,15,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,96.95008,26.294175
+#ff80c0,small,dam,U Yu Chaung,Sagaing,,,,,Identified Potential Site,12,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,95.294431,24.865948
+#000000,small,dam,Thapanzeik,Sagaing,,,,,Existing,30,117,33,3552,39705,42.8,-,,,E,,,,MoEE/MoALI,2002,95.35833,23.305918
+#ff0000,small,dam,Zedawgyi (Upper),,,,,,Planned,64,NP ,73,593,24,NP ,NP ,S ,0,MoALI,,,,,,96.20626,22.74764
+#000000,small,dam,Zedawgyi,Mandalay,,Chaungmakyi,,,Existing,25,134,47,448,41,16,-,,,MoALI,,,,,1989,96.326937,22.348646
+#ff0000,small,dam,Deedoke,Mandalay,,,,,Planned,77,338,27,NP ,NP ,19,NP ,NP ,0%,MoU ,20/11/14 ,Andritz Hydro ,NP ,Austria ,2020,96.404455,21.68723
+#000000,medium,dam,Yeywa,Mandalay,,Myitnge,,,Existing,790,"3,550",132,"2,607",59,75,- ,,,E,,,,MoEE ,2010,96.474077,21.675196
+#ff0000,medium,dam,Yeywa (Middle),Shan,,,,,Planned,700,"3,253",160,454,11,70,NP ,NP ,0%,MoU ,2/7/2014,SN Power ,NP ,Norway ,2020,96.87313,21.96024
+#008080,medium,dam,Yeywa (Upper),Shan,,,,,Under Construction,280,"1,409",97,342,26.94,60,0.3,,,C,,,,MoEE,2021,97.046741,22.254093
+#ff0000,medium,dam,Nam Lang,Shan,,,,,Planned,210,NP ,NP ,NP ,NP ,NP ,NP ,NP  ,0%,MoU ,9/3/2016,PCR ,SE ,PRC ,2020,97.248615,22.155565
+#ff0000,small,dam,Nam Hsim,Shan,,,,,Planned,30,NP ,NP ,NP ,NP ,NP ,NP ,NP,0%,MoU ,9/4/2016,PCR ,SE ,PRC ,2021,97.124079,22.560266
+#ff0000,small,dam,Nam Tu,Shan,,,,,Planned,100,410,114,NP ,NP ,4,NP ,NP ,0%,Local MoU,7/4/2014,-,NCEH,-,2021,97.319365,22.720943
+#000000,small,dam,Zawgyi II,Shan,,,,,Existing,12,30,44,639,38.47,8.2,- ,,,E,,,,MoEE/ MoALI ,1998,96.8726,21.5648
+#000000,small,dam,Zawgyi I,Shan,,,,,Existing,18,35,- ,- ,- ,- ,1.7,,,E,,,,MoEE ,1995,96.90147,21.3833
+#000000,small,dam,Myogyi,Shan,,,,,Existing,30,136,79,444,22.72,10.7,- ,,,E,,,,MoALI ,2015,96.39144,21.46349
+#000000,small,dam,Kindar,Mandalay,,Pa Laung,,,Existing,56,165,72,"1,078",28.57,13.3, ,,,,,,,MoEE ,1985,96.321037,21.160437
+#ff0000,small,dam,Buywa (Upper),Magway,,,,,Planned,150,534,138,721,76,NP,-,,,,,,,MoALI,NP,94.0818,20.76609
+#008080,small,dam,Buywa,Magway,,,,,Under Construction,42,NP ,46,209,38,NP,-,,,,,,,MoAL/MoEE,2018,94.150833,20.658056
+#000000,small,dam,Monechaung,Magway,,,,,Existing,75,330,61,832,42,19,- ,,,,,,,MoALI ,2002,94.255325,20.479942
+#000000,small,dam,Kyeeon Kyeewa,Magway,,,,,Existing,74,370,50,571,33,30,- ,,,E,,,,MoALI,2012,94.416,20.331
+#000000,small,dam,Mindon,Magway,,,,,Identified Potential Site,18,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,94.712866,19.37089
+#ff80c0,large,dam,Naopha,Shan,NP ,Thanlwin,Thanlwin Mainstem,Thanlwin Mainstem,Identified Potential Site,"1,200","6,182",90,813,23.37,1,ROR ,110,50%,MoA ,22/05/14 ,HydroChina ,IGOEC ,PRC ,2026,98.499151,22.987464
+#ff0000,medium,dam,Mantong,Shan,  ?  ,Thanlwin,Nam Ma,Nam Ma,Planned,225,936,109,1215,10.46,146,S ,NP ,50%,MoA ,22/05/14 ,HydroChina ,IGOEC ,PRC ,2024,98.55727,22.97469
+#ff0000,medium,dam,Nam Hka,Shan,? ,Thanlwin,Nam Hka,Nam Hka,Planned,210,937,120,450,75.15,NP,NP ,73-85,0%,MOU ,27/9/07 ,YNIC ,- ,PRC ,2025,98.950044,21.733821
+#ff0000,large,dam,Mong Ton,Shan,NP ,Thanlwin,Thanlwin Mainstem,Thanlwin Mainstem,Planned,"7,000","34,700",241,"37,887",870,150,S ,~380 ,90%,MoU ,10/11/2010,Three Gorges/ ,- ,PRC/THA ,2030,98.65,20.456389
+#ff0000,small,dam,Nam Pawn (Lower),Kayah,(*) ,Thanlwin,Nam Pawn,Nam Pawn,Planned,105,,NP ,88  526  NP ,NP ,NP ,36,- ,0%,MoU ,27/10/15 ,TEI ,HTCT ,Singapore ,2020,97.408611,19.555
+#ff0000,small,dam,Hpi Hseng,Shan,(*) ,Thanlwin,Nam Pawn,Nam Pawn,Planned,45,,NP ,10  4  NP ,NP ,ROR ,<1 ,8,0%,MoU ,27/10/15 ,TEI ,HTCT ,Singapore ,2020,97.43497,20.118443
+#ff0000,small,dam,Hpak Nam,Shan,(*) ,Thanlwin,Nam Pawn,Nam Pawn,Planned,105,,NP ,20  20  NP ,NP ,ROR ,<1 ,7,0%,MoU ,27/10/15 ,TEI ,HTCT ,Singapore ,2020,97.456152,20.209251
+#ff0000,small,dam,Nam Pawn (Upper),Shan,(*) ,Thanlwin,Nam Pawn,Nam Pawn,Cancel,150,,NP ,10  7  NP ,NP ,ROR ,<1 ,14,0%,MoU ,27/10/15 ,TEI ,HTCT ,Singapore ,2020,97.437368,20.062121
+#ff0000,large,dam,Ywathit,Kayah,NP ,Thanlwin,Thanlwin Mainstem,Thanlwin Mainstem,Planned,"4,000","25,519",51,"7,401",43.47,11,S ,~130 ,NP ,MoA ,18/01/11 ,CDOI ,STH ,PRC ,2030,97.521257,19.131059
+#ff0000,small,dam,Hawkham (Upper),Kayah,(*) ,Thanlwin,Nam Pawn,Nam Pawn,Cancel,180,,NP ,NP ,NP ,NP ,29,- ,0%,MoU ,27/10/15 ,TEI ,HTCT ,Singapore ,2020,97.399722,19.211667
+#ff0000,large,dam,Hutgyi,Kayin,NP ,Thanlwin,Thanlwin Mainstem,Thanlwin Mainstem,Planned,"1,360","7,325",118,509,NP ,0.5,ROR ,16,90%,MoA ,24/04/10 ,Sinohydro/ EGATi ,IGOEC ,PRC/THA ,2020,97.747,17.528
+#000000,small,dam,Baluchaung 1,Kayah,,Thanlwin,Nam Pawn,Baluchaung,Existing,28,200,11,2,0,0.2,10.3,,,,,,,MoEE,1992,97.28552341,19.64877137
+#000000,small,dam,Baluchaung 2,Kayah,,Thanlwin,Nam Pawn,Baluchaung,Existing,168,"1,190",-,-,-,-,7.1,,,,,,,MoEE,1974,97.31421232,19.57310407
+#000000,small,dam,Baluchaung 3,Kayah,,Thanlwin,Nam Pawn,Baluchaung,Existing,52,334,i ,- ,- ,- ,5.1,,,,,,,Future Energy,2014,97.35693991,19.55820796
+#008080,small,dam,Baluchaung (Upper),Shan,,Thanlwin,Nam Pawn,Baluchaung,Under Construction,30,90,35,2.2,9.7,NP ,3,,,,,,,NeoEnergy Oasis,2020,96.781918,20.484592
+#ff80c0,small,dam,Yunsalin,Kayin,,Thanlwin,Yunzalin,,Identified Potential Site,,,,,,,,,,,,,,,,97.34081,18.29496
+#808080,medium,dam,Weigyi,Kayin,,Thanlwin,,,Cancel,,,,,,,,,,,,,,,,97.6099205,18.23636218
+#808080,medium,dam,Dagwin,Kayin,,Thanlwin,,,Cancel,,,,,,,,,,,,,,,,97.6803875,18.06998263
+#ff80c0,small,dam,Myet Taw Chaung,Kayin,,Thanlwin,Myet Taw Chaung,Myet Taw Chaung,Identified Potential Site,,,,,,,,,,,,,,,,97.915769,15.682011
+#ff80c0,small,dam,Lam Pha,Kayin,,Thanlwin,Lam Pha,Lam Pha,Identified Potential Site,,,,,,,,,,,,,,,,98.348758,16.305021
+#000000,small,dam,Shwegyin,Bago,,Sittaung,Other Sittaung,Shwegyin River,Existing,75,262,57,"2,080",59,- ,,,,,,,,MoEE,2011,96.935001,17.970227
+#ff0000,small,dam,Bawgata,Bago,n.a. ,Sittaung,Bawgata,Bawgata,Planned,160,500,80,835,19,,NP , ,0%,Local MoU,18/02/16 ,,Thoolei,Thoolei ,2020,96.848496,18.255561
+#000000,small,dam,Yenwe,Bago,,Sittaung,Other Sittaung,Ye Nwe Chaung,Existing,25,123,77,NP ,77,- ,,,,,,,,MoEE/MoALI,2007,96.446152,18.085211
+#000000,small,dam,Kun Chaung,Bago (East),,,,,Existing,60,190,73,"1,468",~150 ,2.9,,,,,,,,MoEE,2012,96.33087158,18.40795774
+#000000,small,dam,Phyu Chaung,Bago,,Sittaung,Other Sittaung,Pyu Chaung,Existing,40,120,75,780,,,,,,,,,,MoEE/MoALI,2015,96.351028,18.506214
+#000000,small,dam,Thauk Ye Khat 2,Kayin,,Sittaung,Thauk Ye Khat,Thauk Ye Khat,Existing,120,604,94,444,60,,,,,,,,,Gold Energy(MYA),2014,96.619907,18.914102
+#ff80c0,small,dam,Thauk Ye Khat 1,Kayin,,Sittaung,Thauk Ye Khat,Thauk Ye Khat,Identified Potential Site,150,NP ,NP,NP,NP ,NP  ,NP , ,0%,,,,,,,96.719624,18.938587
+#000000,small,dam,Kabaung,Bago,,,,,Existing,30,120,61,"1,468",~150 ,,,,,,,,,MoEE/MoALI,2008,96.26358032,18.89524292
+#000000,medium,dam,Paunglaung(Lower),Naypyitaw,,Sittaung,Paung Laung,Paung Laung Chaung,Existing,280,911,131,678,15,16,- ,,,,,,,MoEE ,2005,96.35421753,19.79448715
+#000000,small,dam,Paunglaung(Upper),Shan (South),,Sittaung,Paung Laung,Paung Laung Chaung,Existing,140,454,98,"1,286",11,50,- ,,,,,,,MoEE ,2015,96.62097931,19.8238808
+#ff0000,small,dam,Paunglaung(Middle),Shan (South),,Sittaung,Paung Laung,Paung Laung Chaung,Planned,100,342,83,429,10,29,S ,,0%,MoU,21/10/15,Energized Myanmar,,SIN,2021,96.508,19.86
+#000000,small,dam,Nancho,Naypyitaw,,Sittaung,Paung Laung,Sin The Chaung,Existing,40,152,72,9,0,3,5.2,,,,,,,MoEE ,2014,96.450483,19.7412
+#ff0000,small,dam,He Kou,Shan,- ,Mekong,Nam Lwe,Nam Lwe,Planned,138,483,NP ,68,0.4,ROR ,6.5,27,NP ,MoU ,25/9/07 ,YNIC ,- ,PRC ,2025,100.720928,21.341291
+#ff0000,small,dam,Keng Yang,Shan,- ,Mekong,Nam Lwe,Nam Lwe,Planned,70,155,NP ,41,0.3,ROR ,5.4,24,NP ,MoU ,25/9/07 ,YNIC ,- ,PRC ,2025,100.5619,21.3469
+#7e7e7e,small,dam,Mongwa,Shan,-,Mekong,Nam Lwe,Nam Lwe,Existing,68,311,51,78,8,31,-,,,MoU,25/9/07,YNIC ,-,PRC,2025,100.325821,21.39699
+#ff0000,medium,dam,Suo Lwe,Shan,- ,Mekong,Nam Lwe,Nam Lwe,Planned,240,NP ,NP ,"1,338",46.4,S ,40.9,72,NP ,MoU ,25/9/07 ,YNIC ,- ,PRC ,2025,100.176054,21.359543
+#ff0000,small,dam,Keng Tong,Shan,,Mekong,Nam Lwe,Nam Lwe,Planned,170,536,NP ,32,1.2,ROR ,8.4,26,NP ,,,,,,,99.500985,21.617799
+#ff0000,small,dam,Nam Lin,Shan,NP,Mekong,Nam Lin,Nam Lin,Planned,36,156,26,14,3,ROR ,252 (+) ,NP ,0%,LocMoU ,8/10/2015,- ,MAM ,- ,2021,100.241026,20.742516
+#ff0000,small,dam,Mong Hsat,Shan,NP ,Mekong,Nam Hkoke,Nam Hkoke,Planned,30,NP ,NP ,NP ,NP  ,,NP ,NP ,0%,LocMoU ,11/11/2015,- ,Suntac Power Co. ,MYA ,NP ,99.375,20.662222
+#ff80c0,small,dam,Nam Hkok,Shan,,Mekong,Nam Hkoke,Nam Hkoke,Identified Potential Site,30,NP ,NP ,NP ,NP  ,,NP ,NP ,0%,,,,,,,99.34667,20.196337
+#ff80c0,small,dam,Min Chaung,Chin,,Rakhine,Kaladan,Mi Chaung,Identified Potential Site,200,NP ,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,93.073495,21.334187
+#ff80c0,small,dam,Saing Din,Rakhine,,Rakhine,Saing Din Creeek,,Identified Potential Site,77,236,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,92.652188,20.893779
+#ff0000,medium,dam,Lemro1,Chin,,Rakhine,Lemro,Le Mro,Planed,600,"3,850",NP ,NP ,NP ,S ,229,NP ,0%,,,,,,,93.350503,20.857443
+#ff0000,small,dam,Lemro 2,Rakhine,,Rakhine,Lemro,Le Mro,Planned,90,,NP ,NP ,NP ,NP ,,NP ,0%,,,,,,,93.268689,20.740347
+#008080,small,dam,Thahtay,Rakhine,,Rakhine,Thahtay,Thahtay,Under Construction Site,111,NP ,91,NP ,NP ,NP ,- ,,,,,,,MoEE ,2020,94.381,18.64
+#ff80c0,small,dam,Than Dwe,Rakhine,,Rakhine,Than Dwe,Than Dwe,Identified Potential Site,39,105,NP ,NP ,NP ,NP ,NP ,NP ,NP ,,,,,,,94.493902,18.386144
+#ff80c0,small,dam,Kyein Ta Li,Rakhine,,Rakhine,Kyein Ta Li,Kyein Ta Li,Identified Potential Site,28,151,NP ,NP ,NP ,- ,NP ,NP ,0%,,,,,,,94.576508,17.950012
+#008080,small,dam,Keng Tawng (Upper),Shan,,Thanlwin,Nam Teng,Nam Teng,Under Construction,51,231,56,128,NP ,NP ,NP ,,,,,,,MoEE ,2019,98.184077,20.74558
+#ff0000,small,dam,Keng Tawng,Shan,,Thanlwin,Nam Teng,Nam Teng,Existing,54,378,27,61,0.08,0.9,- ,,,,,,,MoEE ,2016,98.29305,20.598345
+#ff80c0,small,dam,Sar Ra Wa Chaung,Tanintharyi,,Tanintharyi,Tanintharyi,,Identified Potential Site,11,NP ,NP ,NP ,NP   ,,NP ,NP ,,,,,,,,98.98167,12.829406
+#ff0000,medium,dam,Taninthayi,Tanintharyi,- ,Tanintharyi,Tanintharyi,Taninthayi,Suspend,600,"3,476",NP ,"27,086",212,S ,585,NP ,NP ,MoU ,9/10/2008,Italian-Thai ,- ,Thailand ,NP ,98.94,12.777
+#ff80c0,small,dam,Tha Gyet Chaung,Tanintharyi,,Tanintharyi,Tanintharyi,Tha Gyet,Identified Potential Site,20,NP ,NP ,NP ,NP   ,,NP ,NP ,,,,,,,,99.227161,12.132896
+#ff80c0,small,dam,Thein Khun Chaung,Tanintharyi,,Tanintharyi,Tanintharyi,Thein Kun,Identified Potential Site,25,NP ,NP ,NP ,NP   ,,NP ,NP ,,,,,,,,99.331205,11.769949
+#ff80c0,small,dam,Glohong Kra,Tanintharyi,,Tanintharyi,Glohong Kra,Glohong Kra,Identified Potential Site,40,NP ,NP ,NP ,NP   ,,NP ,NP ,,,,,,,,98.858324,10.775209
+#000000,small,dam,Zaungtu,Bago,,Myit Mo Hka & Bago,Bago,Bago River,Existing,20,76,45,407,25,19,,,,,,,,MoEE,1994,96.19898,17.755818
+#ff0000,small,dam,Belin,Mon,n.a. ,Bilin,Bilin,Bilin River,Planned,280,NP ,131,"9,711",310,,578,S ,0%,Local MoU ,20/03/16 ,- ,HCDG ,HCDG ,2021,97.243546,17.519723
